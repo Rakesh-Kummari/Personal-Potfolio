@@ -9,7 +9,7 @@ export const achievementData = {
       date: "Aug 20, 2019",
       field: "Automation",
       image:
-        "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLrYOa_7GYZKzEkyQJFj0vE2IlG1QXnJG4x_by_OYU1edDJ6EtiYH1nxKd0XFvrZJTpg&usqp=CAU",
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export const achievementData = {
       date: "Aug 20, 2019",
       field: "Automation",
       image:
-        "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://keertikaonline.com/uploads/cause_featured_photo_1727680095.jpg",
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ export const achievementData = {
       date: "Aug 20, 2019",
       field: "Automation",
       image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg",
     },
   ],
 };
