@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { BsYoutube } from "react-icons/bs";
 import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
-import { FaLinkedinIn, FaFacebookF, FaGoogle } from "react-icons/fa";
+import { FaLinkedinIn, FaGoogle } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -60,7 +60,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href=""
+                href="https://www.google.com/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
