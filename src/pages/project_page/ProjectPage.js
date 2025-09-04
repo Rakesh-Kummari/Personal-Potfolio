@@ -5,7 +5,7 @@ import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
 import nyc from "../../images/nyc.png";
 import ci from "../../images/onboarding.png";
-import hd from "../../images/hd.png";
+// import hd from "../../images/hd.png";
 import eco from "../../images/eco.png";
 import pp from "../../images/portfolio.png";
 import meal from "../../images/meal.png";
@@ -14,7 +14,7 @@ import age from "../../images/age.png";
 import calculator from "../../images/calculator.png";
 import calendar from "../../images/calendar.png";
 import dc from "../../images/dc.png";
-import sims from "../../images/sims.png";
+// import sims from "../../images/sims.png";
 import { FaCode } from "react-icons/fa";
 export default function ProjectPage() {
   return (
