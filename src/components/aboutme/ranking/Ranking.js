@@ -1,5 +1,5 @@
 import React from "react";
-import { FaHackerrank } from "react-icons/fa";
+// import { FaHackerrank } from "react-icons/fa";
 import {
   SiLeetcode,
   SiHackerearth,
@@ -57,7 +57,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              //href="https://www.codechef.com/users/mdtonmoy13mt"
+              href="https://www.codechef.com"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -69,7 +69,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              //ref="https://codeforces.com/profile/md_mafujul_hasan"
+              href="https://codeforces.com"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"

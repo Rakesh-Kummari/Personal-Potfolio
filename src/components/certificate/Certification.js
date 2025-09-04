@@ -29,7 +29,7 @@ export default function Certification() {
                     <div className="cert-card">
                       <div className="content">
                         <a
-                          href="https://www.hackerrank.com/certificates/3573ea1a35bb"
+                          href="https://drive.google.com/file/d/1R5DyXXWfQQeG5wu6774XWsEcKGiOx9Cw/view?usp=drive_link"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -55,13 +55,13 @@ export default function Certification() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          Problem Solving Basic : Programming Fundamentals
+                          Programming In JAVA & DSA
                         </h2>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          - HackerRank
+                          - Apna College
                         </h3>
                       </div>
                     </div>
@@ -72,7 +72,7 @@ export default function Certification() {
                     <div className="cert-card">
                       <div className="content">
                         <a
-                          href={cbta}
+                          href="https://www.coursera.org/account/accomplishments/verify/0GN547E77NDG"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -98,14 +98,13 @@ export default function Certification() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          Basic Computer Application for Everyone: IT Support
-                          Technician level-1
+                          Google Crash Course on Python
                         </h2>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          - Bangladesh Technical Education Board
+                          - coursera
                         </h3>
                       </div>
                     </div>
@@ -116,7 +115,7 @@ export default function Certification() {
                     <div className="cert-card">
                       <div className="content">
                         <a
-                          href="https://www.hackerrank.com/certificates/af66a6615aad"
+                          href="https://drive.google.com/file/d/1SB4Mt0m3j2r-ZhxyEz5dbhikrWL31OEM/view?usp=drive_link"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -142,13 +141,13 @@ export default function Certification() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          Python Basic for : Programming Fundamentals
+                          MERN Stack Web Development
                         </h2>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          - HackerRank
+                          - Apna College
                         </h3>
                       </div>
                     </div>

@@ -6,9 +6,9 @@ import ucsc from "../../images/ucsc.png";
 import ufm from "../../images/ufm.png";
 import nh from "../../images/nh.jpg";
 import nactar from "../../images/nactar.jpg";
-import ccna from "../../images/CCNA_Certificate.jpg";
 import cbta from "../../images/CBT&A.pdf";
 import skill from "../../images/skill.png";
+import Infosys from "../../images/infosys.png";
 import c from "../../images/c.jpg";
 import iq from "../../images/IQ_Test.jpg";
 import computer from "../../images/Computer_knowledge.jpg";
@@ -41,7 +41,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://www.hackerrank.com/certificates/3573ea1a35bb"
+                                  href="https://drive.google.com/file/d/1R5DyXXWfQQeG5wu6774XWsEcKGiOx9Cw/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -73,8 +73,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Problem Solving Basic : Programming
-                                  Fundamentals
+                                  Programming In JAVA & DSA
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -83,7 +82,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - HackerRank
+                                  - Apna College
                                 </h3>
                               </div>
                             </div>
@@ -94,7 +93,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={cbta}
+                                  href="https://www.coursera.org/account/accomplishments/verify/0GN547E77NDG"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -126,8 +125,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Basic Computer Application : IT Support
-                                  Technician level-1
+                                  Google Crash Course on Python
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -136,7 +134,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Bangladesh Technical Education Board
+                                  - coursera
                                 </h3>
                               </div>
                             </div>
@@ -147,7 +145,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://www.hackerrank.com/certificates/af66a6615aad"
+                                  href="https://drive.google.com/file/d/1SB4Mt0m3j2r-ZhxyEz5dbhikrWL31OEM/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -179,7 +177,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Python Basic : Programming Fundamentals
+                                  MERN Stack Web Development
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -188,7 +186,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - HackerRank
+                                  - Apna College
                                 </h3>
                               </div>
                             </div>
@@ -199,7 +197,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={ccna}
+                                  href="https://drive.google.com/file/d/1QD44AhIWBMVkBIMtcbJZ5wULLgZGiodY/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -231,8 +229,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  CCNA(Cisco Certified Network Associate) :
-                                  Basic Networking for Everyone.
+                                  Frontend AI Intern
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -241,8 +238,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - New Horizons Computer Learning Centers,
-                                  Dhaka.
+                                  - Edunet Foundation
                                 </h3>
                               </div>
                             </div>
@@ -253,7 +249,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={c}
+                                  href="https://pwskills.com/learn/certificate/6f0c7b30-7485-4819-a212-82b0ba04fbc9/"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -285,7 +281,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  C Programming Basic : Programming Fundamentals
+                                  Frontend Web Development Basic : Web
+                                  Development Fundamentals
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -294,8 +291,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - National Academy for Computer Training and
-                                  Research (NACTAR), Bogura.
+                                  - Physics Wallah
                                 </h3>
                               </div>
                             </div>
@@ -306,7 +302,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={graphics}
+                                  href="https://pwskills.com/learn/certificate/1e622719-b7f9-46f4-a400-76916317aae6/"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -338,7 +334,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Graphics Design Basic : Creative Fundamentals
+                                  Backend Web Development Basic : Web
+                                  Development Fundamentals
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -347,8 +344,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - National Academy for Computer Training and
-                                  Research (NACTAR), Bogura.
+                                  - Physics Wallah
                                 </h3>
                               </div>
                             </div>
@@ -359,7 +355,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://skill.jobs/skill-assessment/badge/md-mafujul-hasan-UnqAQJKO/microsoft-powerpoint-GV5i0zKW"
+                                  href="https://www.coursera.org/account/accomplishments/verify/MGOVOB29H6CV"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -391,7 +387,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Certified for Microsoft PowerPoint
+                                  Introduction to Git and GitHub course :
+                                  offered by Google through Coursera!
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -400,7 +397,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Skill Jobs.
+                                  - Coursera.
                                 </h3>
                               </div>
                             </div>
@@ -411,7 +408,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://skill.jobs/skill-assessment/badge/md-mafujul-hasan-UnqAQJKO/microsoft-windows-BR3rajeh"
+                                  href="https://www.coursera.org/account/accomplishments/verify/91652VBK94N7"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -443,7 +440,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Certified for Microsoft Windows
+                                  Google Foundations of User Experience UX
+                                  Design course through Coursera!
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -452,7 +450,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Skill Jobs.
+                                  - Coursera.
                                 </h3>
                               </div>
                             </div>
@@ -463,7 +461,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://skill.jobs/skill-assessment/badge/md-mafujul-hasan-UnqAQJKO/microsoft-excel-D96YgPpO"
+                                  href="https://drive.google.com/file/d/132YfBD_84g9oET77zbf47IULWXT_gWg3/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -495,7 +493,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Certified for Microsoft Excel
+                                  Create a Mockup in Figma Project throug
+                                  Coursera Project Network!
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -504,7 +503,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Skill Jobs.
+                                  - Coursera.
                                 </h3>
                               </div>
                             </div>
@@ -515,7 +514,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://skill.jobs/career-doctor-report/?u=f5eb57cc-6b6b-4277-a765-e5df63296aed"
+                                  href="https://drive.google.com/file/d/1kNY_WM8giYGSUSUW1wF7VDJZQ-CmLrDY/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -527,8 +526,8 @@ export default function CertificatePage() {
                                     {
                                       <img
                                         className="logo_img"
-                                        src={skill}
-                                        alt={skill}
+                                        src={Infosys}
+                                        alt={Infosys}
                                       />
                                     }
                                   </div>
@@ -547,7 +546,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Career Doctor Report
+                                  Java Foundation Certication
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -556,7 +555,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Skill Jobs.
+                                  - Infosys.
                                 </h3>
                               </div>
                             </div>
@@ -567,7 +566,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://www.hackerrank.com/certificates/9cb4b6c060a8"
+                                  href="https://drive.google.com/file/d/1JxkEn7tbJ7zTnITd8dT8elsEbE02_r66/view?usp=drive_link"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -579,8 +578,8 @@ export default function CertificatePage() {
                                     {
                                       <img
                                         className="logo_img"
-                                        src={ucsc}
-                                        alt={ucsc}
+                                        src={Infosys}
+                                        alt={Infosys}
                                       />
                                     }
                                   </div>
@@ -599,8 +598,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  React (Basic) Certificate : Programming
-                                  Fundamentals
+                                  Data Structures and Algorithms using Java
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -609,7 +607,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - HackerRank
+                                  - Infosys.
                                 </h3>
                               </div>
                             </div>
@@ -620,7 +618,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={iq}
+                                  href="https://www.linkedin.com/learning/certificates/f913bc3629c235a5dd09b0130c2ae87ed3ad9f8a3e30e5ce7f6094d06e09a910?trk=share_certificate"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -652,7 +650,8 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  IQ - Test
+                                  Career Essentials in Generative AI by
+                                  Microsoft and LinkedIn
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -661,7 +660,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  US-Bangla Express Ltd.
+                                  - LinkedIn.
                                 </h3>
                               </div>
                             </div>
@@ -672,7 +671,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href={computer}
+                                  href="https://skillbuilder.aws/5efcb165-446d-4958-8218-c67bc2c533a9"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -704,7 +703,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Computer Knowledge Test
+                                  Foundations of Prompt Engineering
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -713,18 +712,18 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  US-Bangla Express Ltd.
+                                  AWS Training Online.
                                 </h3>
                               </div>
                             </div>
                           </Fade>
                         </Col>
-                      <Col md={4}>
+                        <Col md={4}>
                           <Fade bottom duration={2000} distance="20px">
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="https://skill.jobs/skill-assessment/badge/md-mafujul-hasan-UnqAQJKO/client-relationship-executive-V41jHg6g"
+                                  href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_01275806667282022456_shared/1-d3d09e24-210a-45e9-a1db-f6e27d76f903.pdf"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >
@@ -736,8 +735,8 @@ export default function CertificatePage() {
                                     {
                                       <img
                                         className="logo_img"
-                                        src={skill}
-                                        alt={skill}
+                                        src={Infosys}
+                                        alt={Infosys}
                                       />
                                     }
                                   </div>
@@ -756,7 +755,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Certified for Client Relationship Executive
+                                  Database Management System
                                 </h2>
                                 <h3
                                   className="cert-body-subtitle"
@@ -765,7 +764,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Skill Jobs.
+                                  - Infosys.
                                 </h3>
                               </div>
                             </div>

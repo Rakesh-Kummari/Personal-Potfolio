@@ -41,9 +41,7 @@ export default function Projects() {
                     <img src={nyc} alt={nyc} />
                     <div className="project--showcaseBtn">
                       <a
-                        href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/New-Year-Countdown"
-                        }
+                        href={"https://github.com"}
                         target="_blank"
                         rel="noreferrer"
                         className={"iconBtn"}
@@ -104,9 +102,7 @@ export default function Projects() {
                     <img src={hd} alt={hd} />
                     <div className="project--showcaseBtn">
                       <a
-                        href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Heart%20Disease%20Prediction"
-                        }
+                        href={"https://github.com"}
                         target="_blank"
                         rel="noreferrer"
                         className={"iconBtn"}
@@ -166,9 +162,7 @@ export default function Projects() {
                     <img src={ci} alt={ci} />
                     <div className="project--showcaseBtn">
                       <a
-                        href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System"
-                        }
+                        href={"https://github.com"}
                         target="_blank"
                         rel="noreferrer"
                         className={"iconBtn"}
@@ -228,9 +222,7 @@ export default function Projects() {
                     <img src={pp} alt={pp} />
                     <div className="project--showcaseBtn">
                       <a
-                        href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
-                        }
+                        href={"https://github.com"}
                         target="_blank"
                         rel="noreferrer"
                         className={"iconBtn"}

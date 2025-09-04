@@ -55,9 +55,7 @@ export default function ProjectPage() {
                                 <img src={nyc} alt={nyc} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/New-Year-Countdown"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -102,7 +100,7 @@ export default function ProjectPage() {
                             </div>
                           </Fade>
                         </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
+                        {/* <Col md={3} className="col-sm-12 col-md-4">
                           <Fade bottom>
                             <div
                               key={1}
@@ -119,9 +117,7 @@ export default function ProjectPage() {
                                 <img src={hd} alt={hd} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Heart%20Disease%20Prediction"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -164,7 +160,7 @@ export default function ProjectPage() {
                               </div>
                             </div>
                           </Fade>
-                        </Col>
+                        </Col> */}
                         <Col md={3} className="col-sm-12 col-md-4">
                           <Fade bottom>
                             <div
@@ -182,9 +178,7 @@ export default function ProjectPage() {
                                 <img src={ci} alt={ci} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -245,9 +239,7 @@ export default function ProjectPage() {
                                 <img src={eco} alt={eco} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Shoppy_Ecommerce"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -308,9 +300,7 @@ export default function ProjectPage() {
                                 <img src={pp} alt={pp} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -369,9 +359,7 @@ export default function ProjectPage() {
                                 <img src={meal} alt={meal} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Amazing_Meal"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -432,9 +420,7 @@ export default function ProjectPage() {
                                 <img src={ac} alt={ac} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Academia"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -495,9 +481,7 @@ export default function ProjectPage() {
                                 <img src={calendar} alt={calendar} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Dual-Mode-Calendar"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -520,9 +504,13 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  The Dual Mode Calendar project is a versatile web application built with HTML, CSS, and JavaScript. It seamlessly 
-                                  toggles between a traditional monthly calendar view and a sleek event scheduler. Users can effortlessly manage 
-                                  appointments and events in a visually appealing and user-friendly interface.
+                                  The Dual Mode Calendar project is a versatile
+                                  web application built with HTML, CSS, and
+                                  JavaScript. It seamlessly toggles between a
+                                  traditional monthly calendar view and a sleek
+                                  event scheduler. Users can effortlessly manage
+                                  appointments and events in a visually
+                                  appealing and user-friendly interface.
                                 </p>
                               </h6>
                               <div
@@ -555,9 +543,7 @@ export default function ProjectPage() {
                                 <img src={calculator} alt={calculator} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Dual-Mode-Calculator"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -580,9 +566,13 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  The Dual Mode Calculator project is a web application created with HTML, CSS, and JavaScript. It offers two modes: 
-                                  basic and scientific, providing essential arithmetic functions and advanced calculations. The user-friendly interface 
-                                  and responsive design ensure seamless use across various devices.
+                                  The Dual Mode Calculator project is a web
+                                  application created with HTML, CSS, and
+                                  JavaScript. It offers two modes: basic and
+                                  scientific, providing essential arithmetic
+                                  functions and advanced calculations. The
+                                  user-friendly interface and responsive design
+                                  ensure seamless use across various devices.
                                 </p>
                               </h6>
                               <div
@@ -615,9 +605,7 @@ export default function ProjectPage() {
                                 <img src={dc} alt={dc} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Digital-Clock"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -640,8 +628,12 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  Create a sleek, responsive digital clock with HTML, CSS, and JavaScript. Display real-time hours, minutes, and seconds, 
-                                  and update automatically. Customize its style and layout using CSS for a modern, functional timekeeping experience.
+                                  Create a sleek, responsive digital clock with
+                                  HTML, CSS, and JavaScript. Display real-time
+                                  hours, minutes, and seconds, and update
+                                  automatically. Customize its style and layout
+                                  using CSS for a modern, functional timekeeping
+                                  experience.
                                 </p>
                               </h6>
                               <div
@@ -674,9 +666,7 @@ export default function ProjectPage() {
                                 <img src={age} alt={age} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Age-Calculator"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -699,9 +689,13 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  Create an Age Calculator project using HTML, CSS, and JavaScript. Input your birthdate, and the tool 
-                                  instantly calculates your current age. The sleek design and user-friendly interface make age 
-                                  determination quick and hassle-free. Perfect for websites, apps, or personal use.
+                                  Create an Age Calculator project using HTML,
+                                  CSS, and JavaScript. Input your birthdate, and
+                                  the tool instantly calculates your current
+                                  age. The sleek design and user-friendly
+                                  interface make age determination quick and
+                                  hassle-free. Perfect for websites, apps, or
+                                  personal use.
                                 </p>
                               </h6>
                               <div
@@ -717,7 +711,7 @@ export default function ProjectPage() {
                             </div>
                           </Fade>
                         </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
+                        {/* <Col md={3} className="col-sm-12 col-md-4">
                           <Fade bottom>
                             <div
                               key={1}
@@ -734,9 +728,7 @@ export default function ProjectPage() {
                                 <img src={sims} alt={sims} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Student-Information-Management-System"
-                                    }
+                                    href={"https://github.com"}
                                     target="_blank"
                                     rel="noreferrer"
                                     className={"iconBtn"}
@@ -759,9 +751,13 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  The Student Information Management System project in C++ is a robust software solution designed to 
-                                  efficiently organize and manage student data. It enables users to store, update, and retrieve student 
-                                  information, including grades, attendance, and personal details, ensuring streamlined academic 
+                                  The Student Information Management System
+                                  project in C++ is a robust software solution
+                                  designed to efficiently organize and manage
+                                  student data. It enables users to store,
+                                  update, and retrieve student information,
+                                  including grades, attendance, and personal
+                                  details, ensuring streamlined academic
                                   administration.
                                 </p>
                               </h6>
@@ -773,11 +769,11 @@ export default function ProjectPage() {
                                   fontWeight: 600,
                                 }}
                               >
-                                C++
+                               C++
                               </div>
                             </div>
                           </Fade>
-                        </Col>
+                        </Col> */}
                       </Row>
                     </Col>
                   </Row>
