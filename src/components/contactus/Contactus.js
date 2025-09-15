@@ -118,7 +118,7 @@ export default function Contactus() {
                 <Col md={7}>
                   <div className="contacts-details">
                     <a
-                      href={`rajbabukummari0341@gmail.com`}
+                      href={`mailto:rajbabukummari0341@gmail.com`}
                       className="personal-details"
                     >
                       <div className="detailsIcon">
