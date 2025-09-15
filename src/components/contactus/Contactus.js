@@ -118,7 +118,7 @@ export default function Contactus() {
                 <Col md={7}>
                   <div className="contacts-details">
                     <a
-                      href={`mailto:mdtonmoy13.mt@gmail.com`}
+                      href={`rajbabukummari0341@gmail.com`}
                       className="personal-details"
                     >
                       <div className="detailsIcon">
@@ -143,7 +143,7 @@ export default function Contactus() {
                           <HiOutlineLocationMarker />
                         </div>
                         <p style={{ color: "#fbd9ad" }}>
-                          AT. Muttapur Mall, Sironcha, Gadchiroli - 442504,
+                          AT. Muttapur Mal, Sironcha, Gadchiroli - 442504,
                           Maharashtra, India
                         </p>
                       </div>
