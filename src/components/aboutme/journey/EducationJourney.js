@@ -86,7 +86,7 @@ function EducationJourney() {
           <p>
             Studied Bachelor of Science degree in Computer Science and
             Engineering field from Dr. Babasaheb Ambedkar Technological
-            University and gain TY - CGPA 7.44.
+            University and gain TY - CGPA 7.56.
           </p>
         </VerticalTimelineElement>
 
